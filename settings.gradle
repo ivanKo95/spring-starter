@@ -1,0 +1,3 @@
+rootProject.name = 'spring-starter'
+include 'src'
+
